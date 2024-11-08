@@ -1,4 +1,10 @@
-## Hi there 👋
+## 👋👋👋 Kia ora, Aloha, Hello, 안녕하세요 👋👋👋
+
+Greeting Everyone!
+
+I am a growing developer who are interesting in full-stack development **in most**.
+
+
 
 <!--
 **beuri97/beuri97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
