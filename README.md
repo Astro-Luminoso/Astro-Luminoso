@@ -1,6 +1,6 @@
 ## 👋👋👋 Kia ora, Aloha, Hello, 안녕하세요 👋👋👋
 
-### Greeting Everyone!
+### Greetings, Everyone!
 
 I am a growing developer who is interested in full-stack development _**the most**_.
 
