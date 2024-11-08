@@ -2,7 +2,7 @@
 
 ### Greeting Everyone!
 
-I am a growing developer who is interested in full-stack development **the most**.
+I am a growing developer who is interested in full-stack development __**the most**__.
 
 Right now, I am spending my time on:
 - 🏡 Creating my homepage
