@@ -26,6 +26,30 @@ I will update this readme ASAP!!🔥🔥🔥
 
 이 README는 가능한 한 빨리 업데이트하겠습니다!!🔥🔥🔥
 
+---
+<div align="center">
+
+  ### My GitHub Stats (내 깃허브 통계)
+  
+</div>
+
+<div align="center">
+
+  ![hanbyeol.yang's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=beuri97&theme=react&hide_title=true&height=300)
+  
+  |![hanbyeol.yang's GitHub stats](https://github-readme-stats.vercel.app/api?username=beuri97&show_icons=true&theme=tokyonight&hide_border=true)|[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=beuri97&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)|
+  |------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
+  
+  
+  |![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beuri97&hide=jupyter%20notebook&layout=compact&theme=tokyonight)|![Top Langs By Repo](https://github-readme-stats.vercel.app/api/top-langs/?username=beuri97&hide=jupyter%20notebook&size_weight=0&count_weight=1&layout=compact&custom_title=Top%20Language%20by%20Repo&theme=tokyonight&height=100)|
+  |------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
+
+</div>
+
+
+
+
+
 <!--
 **beuri97/beuri97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
