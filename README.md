@@ -96,24 +96,6 @@ I will update this readme ASAP!!🔥🔥🔥
     </tr>
   </table>
 
-  #### Build Tools
-
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/62091613/261395532-b40892ef-efb8-4b0e-a6b5-d1cfc2f3fc35.png" title="vite" alt="Vite" width=50/>
-        <br/>
-        Vite
-      </td>
-      <td>
-        <img src="" title="gradle" alt="Gradle" width=50/>
-        <br/>
-        Gradle
-      </td>
-    </tr>
-  </table>
-
-
   #### Database
   
   <table>
