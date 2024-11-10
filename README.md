@@ -29,9 +29,9 @@ I will update this readme ASAP!!🔥🔥🔥
 ---
 <div align="center">
   
-  ### My Experiences
+  ### My Experiences (내가 한 경험들)
 
-  #### Language
+  #### Languages
 
   <table>
     <tr>
@@ -74,7 +74,7 @@ I will update this readme ASAP!!🔥🔥🔥
   </table>
 
 
-  #### Web Framework
+  #### Web Frameworks
 
   <table>
     <tr>
@@ -96,7 +96,7 @@ I will update this readme ASAP!!🔥🔥🔥
     </tr>
   </table>
 
-  #### Database
+  #### Databases
   
   <table>
     <tr>
