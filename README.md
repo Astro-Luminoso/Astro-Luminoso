@@ -66,7 +66,7 @@ I will update this readme ASAP!!🔥🔥🔥
         C
       </td>
       <td>
-        <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" title="html" alt="html" width=50/>
+        <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" title="html5" alt="html5" width=50/>
         <br/>
         HTML
       </td>
