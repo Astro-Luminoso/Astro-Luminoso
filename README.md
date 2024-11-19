@@ -65,16 +65,11 @@ I will update this readme ASAP!!🔥🔥🔥
         <br/>
         C
       </td>
-      <td align="center">
-        <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" title="html5" alt="html5" width=50/>
-        <br/>
-        HTML
-      </td>
     </tr>
   </table>
 
 
-  #### Web Frameworks
+  #### Web
 
   <table>
     <tr>
@@ -92,6 +87,11 @@ I will update this readme ASAP!!🔥🔥🔥
         <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" title="React" alt="React" width=50/>
         <br/>
         React
+      </td>
+      <td align="center">
+        <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" title="html5" alt="html5" width=50/>
+        <br/>
+        HTML5
       </td>
     </tr>
   </table>
