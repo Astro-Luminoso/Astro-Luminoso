@@ -91,7 +91,12 @@ I will update this readme ASAP!!🔥🔥🔥
       <td align="center">
         <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" title="html5" alt="html5" width=50/>
         <br/>
-        HTML5
+        HTML
+      </td>
+      <td align="center">
+        <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" title="html5" alt="html5" width=50/>
+        <br/>
+        CSS
       </td>
     </tr>
   </table>
