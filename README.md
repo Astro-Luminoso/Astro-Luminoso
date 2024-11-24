@@ -78,9 +78,9 @@ I will update this readme ASAP!!🔥🔥🔥
   <table>
     <tr>
       <td align="center">
-        <img src="https://github.com/beuri97/beuri97/blob/main/asset/springboot.svg" title="Spring-Boot" alt="Spring Boot" width=50/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" title="Spring-Boot" alt="Spring Boot" width=50/>
         <br/>
-        Spring Boot
+        Spring (Boot)
       </td>
       <td align="center">
         <img src="https://github.com/beuri97/beuri97/blob/main/asset/Express.svg" title="Express" alt="Express" width=50/>
