@@ -163,7 +163,7 @@ I will update this readme ASAP!!🔥🔥🔥
 
   ![hanbyeol.yang's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lambda-luna&theme=react&hide_title=true&height=300)
   
-  |![hanbyeol.yang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lambda-luna&show_icons=true&theme=tokyonight&hide_border=true)|[![GitHub Streak](https://streak-stats.demolab.com/?user=Lambda-luna&theme=tokyonight)](https://git.io/streak-stats)|
+  |![hanbyeol.yang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lambda-luna&show_icons=true&theme=tokyonight&hide_border=true)|[![GitHub Streak](https://streak-stats.demolab.com?user=Lambda-luna&theme=tokyonight-duo)](https://git.io/streak-stats)|
   |------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
   
   
