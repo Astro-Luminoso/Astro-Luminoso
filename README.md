@@ -163,8 +163,8 @@ I will update this readme ASAP!!🔥🔥🔥
 
   ![hanbyeol.yang's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lambda-luna&theme=react&hide_title=true&height=300)
   
-  |![hanbyeol.yang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lambda-luna&show_icons=true&theme=tokyonight&hide_border=true)|[![GitHub Streak](https://streak-stats.demolab.com?user=Lambda-luna&theme=tokyonight-duo)](https://git.io/streak-stats)|
-  |------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
+  |![hanbyeol.yang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lambda-luna&show_icons=true&theme=tokyonight&hide_border=true)|
+  |------------------------------------------------------------------------------------|
   
   
   |![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lambda-luna&hide=jupyter%20notebook&layout=compact&theme=tokyonight)|![Top Langs By Repo](https://github-readme-stats.vercel.app/api/top-langs/?username=Lambda-luna&hide=jupyter%20notebook&size_weight=0&count_weight=1&layout=compact&custom_title=Top%20Language%20by%20Repo&theme=tokyonight&height=100)|
