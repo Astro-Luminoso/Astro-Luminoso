@@ -6,7 +6,6 @@ I am a growing developer who is interested in full-stack development _**the most
 
 Right now, I am spending my time on:
 - 🏡 Creating my homepage
-- 📝 Doing Internship
 - 🌴 Chilling
 - 🍖💤🍖💤 Eat, Sleep and repeat!
 
@@ -22,7 +21,6 @@ I will update this readme ASAP!!🔥🔥🔥
 
 지금 저는 다음과 같은 일들을 하고 있습니다:
 - 🏡 홈페이지 만들기
-- 📝 인턴십 하는 중
 - 🌴 쉬는 중
 - 🍖💤🍖💤 먹고, 자고, 반복하기!
 
