@@ -2,7 +2,7 @@
 
 ### Greetings, Everyone!
 
-I am a growing developer who is interested in full-stack development _**the most**_.
+I am a growing developer who is interested in back-end development _**the most**_ but also interested in full-stack.
 
 Right now, I am spending my time on:
 - 🏡 Creating my homepage
@@ -17,7 +17,7 @@ I will update this readme ASAP!!🔥🔥🔥
 
 ### 모두에게 인사드립니다!
 
-저는 풀스택 개발에 _**가장 관심이 많은**_ 성장하는 개발자입니다.
+저는 백엔드 개발에 _**가장 관심이 많은**_ 하지만 풀스택 개발에도 관심이 있는 성장하는 개발자입니다.
 
 지금 저는 다음과 같은 일들을 하고 있습니다:
 - 🏡 홈페이지 만들기
