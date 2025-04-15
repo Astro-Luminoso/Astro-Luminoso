@@ -9,7 +9,6 @@ Right now, I am spending my time on:
 - 🌴 Chilling
 - 🍖💤🍖💤 Eat, Sleep and repeat!
 
-The profile image is created by ChatGPT!!!
 
 I will update this readme ASAP!!🔥🔥🔥
 
@@ -24,7 +23,6 @@ I will update this readme ASAP!!🔥🔥🔥
 - 🌴 쉬는 중
 - 🍖💤🍖💤 먹고, 자고, 반복하기!
 
-프로필 사진은 chatGPT가 만들어줬어요!!!
 
 이 README는 가능한 한 빨리 업데이트하겠습니다!!🔥🔥🔥
 
