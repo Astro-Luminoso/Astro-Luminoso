@@ -31,7 +31,6 @@ I will update this readme ASAP!!🔥🔥🔥
   
   ### My Experiences (내가 한 경험들)
 
-  #### Languages
 
   <table>
     <tr>
@@ -69,7 +68,6 @@ I will update this readme ASAP!!🔥🔥🔥
   </table>
 
 
-  #### Web
 
   <table>
     <tr>
@@ -101,7 +99,6 @@ I will update this readme ASAP!!🔥🔥🔥
     </tr>
   </table>
 
-  #### Databases
   
   <table>
     <tr>
@@ -128,7 +125,6 @@ I will update this readme ASAP!!🔥🔥🔥
     </tr>
   </table>
 
-  #### Anything Else I Just Want to put it in here
 
   <table>
     <tr>
