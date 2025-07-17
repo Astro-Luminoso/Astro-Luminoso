@@ -9,7 +9,7 @@ Right now, I am spending my time on:
 - 🌴 Chilling
 - 🍖💤🍖💤 Eat, Sleep and repeat!
 
-I want to share my schedules open to bulic. Please visit [here](https://www.notion.so/Aster-s-Planning-23374def34a68017a9ffccaaff02f4c3?source=copy_link)if you are intereseted.
+I want to share my schedules open to bulic. Please visit [here](https://www.notion.so/Aster-s-Planning-23374def34a68017a9ffccaaff02f4c3?source=copy_link) if you are intereseted.
 
 
 I will update this readme ASAP!!🔥🔥🔥
@@ -25,7 +25,7 @@ I will update this readme ASAP!!🔥🔥🔥
 - 🌴 쉬는 중
 - 🍖💤🍖💤 먹고, 자고, 반복하기!
 
-저는 공개중인 저의 스케줄이 있습니다. 관심 있으신 분은 [여기]([here](https://www.notion.so/Aster-s-Planning-23374def34a68017a9ffccaaff02f4c3?source=copy_link))를 눌러주세요.
+저는 공개중인 저의 스케줄이 있습니다. 관심 있으신 분은 [여기](https://www.notion.so/Aster-s-Planning-23374def34a68017a9ffccaaff02f4c3?source=copy_link) 를 눌러주세요.
 
 본 링크는 영어로만 작성되어있습니다. 참고바랍니다.
 
