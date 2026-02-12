@@ -154,15 +154,6 @@ I will update this readme ASAP!!🔥🔥🔥
 
 <div align="center">
 
-  ![hanbyeol.yang's github activity graph](https://[github-readme-activity-graph.cyclic.app](https://github-readme-activity-graph.cyclic.app)/graph?username=Astro-Luminoso&theme=react&hide_title=true&height=300)
-  
-  |![hanbyeol.yang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Astro-Luminoso&show_icons=true&theme=tokyonight&hide_border=true)|
-  |------------------------------------------------------------------------------------|
-  
-  
-  |![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Astro-Luminoso&hide=jupyter%20notebook&layout=compact&theme=tokyonight)|![Top Langs By Repo](https://github-readme-stats.vercel.app/api/top-langs/?username=Astro-Luminoso&hide=jupyter%20notebook&size_weight=0&count_weight=1&layout=compact&custom_title=Top%20Language%20by%20Repo&theme=tokyonight&height=100)|
-  |------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
-
 </div>
 
 
