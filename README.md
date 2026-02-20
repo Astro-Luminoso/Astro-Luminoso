@@ -146,7 +146,7 @@ I will update this readme ASAP!!🔥🔥🔥
 
 ---
 
-<div align="center">
+<!-- <div align="center">
 
   ### My GitHub Stats (내 깃허브 통계)
   
@@ -154,7 +154,7 @@ I will update this readme ASAP!!🔥🔥🔥
 
 <div align="center">
 
-</div>
+</div> -->
 
 
 
