@@ -28,6 +28,9 @@ I will update this readme ASAP!!🔥🔥🔥
 이 README는 가능한 한 빨리 업데이트하겠습니다!!🔥🔥🔥
 
 ---
+##### Visitor Counts
+[![Hits](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2FAstro-Luminoso&label=Visitors&icon=github&color=1f6feb&message=1)](https://hitscounter.dev)
+
 <div align="center">
   
   ### My Experiences (내가 한 경험들)
