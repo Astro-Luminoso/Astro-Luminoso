@@ -129,7 +129,9 @@ I will update this readme ASAP!!🔥🔥🔥
     </tr>
   </table>
 
+--- 
 
+### My Stats
   <table>
     <tr>
       <td align="center">
@@ -150,12 +152,17 @@ I will update this readme ASAP!!🔥🔥🔥
 ---
 
 ### My GitHub Stats (내 깃허브 통계)
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Astro-Luminoso&show_icons=true&theme=radical&title_color=000000&text_color=000000&bg_color=ffffff" alt="Inan's Github Stat" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astro-Luminoso&layout=compact&theme=radical&title_color=000000&text_color=000000&bg_color=ffffff" alt="Top Langs" />
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Astro-Luminoso&show_icons=true&theme=radical&title_color=000000&text_color=000000&bg_color=ffffff" alt="hby's Github Stat" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astro-Luminoso&layout=compact&theme=radical&title_color=000000&text_color=000000&bg_color=ffffff" alt="Top Langs" />
+    </td>
+      
+  </tr>
+</table>
 
 <!-- <div align="center">
 
