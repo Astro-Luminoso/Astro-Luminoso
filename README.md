@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=speech&height=300&color=gradient&text=HOWDY%20y'ALL-nl-I%20AM%20HANBYEOL%20YANG&reversal=false&textBg=false&fontAlignY=36&animation=twinkling)
+
 ## 👋👋👋 Kia ora, Aloha, Hello, 안녕하세요 👋👋👋
 
 ### Greetings, Everyone!
@@ -156,16 +158,16 @@ I will update this readme ASAP!!🔥🔥🔥
   
 <table>
   <tr>
+    <td align="center" colspan=2>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Astro-Luminoso&theme=react&custom_title=Astro-Luminoso's%20Contribution%20Graph" alt="commit graph" />
+    </td>
+  </tr>
+  <tr>
     <td align="center">
       <img src="https://github-stats-extended.vercel.app/api?username=Astro-Luminoso&custom_title=Astro-Luminoso's%20GitHub%20Status&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=react" alt="hby's Github Stat" />
     </td>
     <td align="center">
       <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Astro-Luminoso&layout=pie&langs_count=8&theme=react" alt="Top Langs" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan=2>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Astro-Luminoso&theme=react&custom_title=Astro-Luminoso's%20Contribution%20Graph" alt="commit graph" />
     </td>
   </tr>
 </table>
