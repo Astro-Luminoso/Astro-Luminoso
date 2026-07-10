@@ -162,7 +162,11 @@ I will update this readme ASAP!!🔥🔥🔥
     <td align="center">
       <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Astro-Luminoso&layout=pie&langs_count=8&theme=react" alt="Top Langs" />
     </td>
-      
+  </tr>
+  <tr>
+    <td align="center" colspan=2>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Astro-Luminoso&theme=react&custom_title=Astro-Luminoso's%20Contribution%20Graph" alt="commit graph" />
+    </td>
   </tr>
 </table>
 </div>
