@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=speech&height=300&color=gradient&text=HOWDY%20y'ALL-nl-I%20AM%20HANBYEOL%20YANG&reversal=false&textBg=false&fontAlignY=36&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=speech&height=300&color=gradient&text=HOWDY%20y'ALL&desc=MY%20NAME%20IS%20HANBYEOL%20YANG&descSize=32&reversal=false&textBg=false&fontAlignY=36&animation=twinkling&descAlignY=54)
 
 ## 👋👋👋 Kia ora, Aloha, Hello, 안녕하세요 👋👋👋
 
