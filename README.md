@@ -157,10 +157,10 @@ I will update this readme ASAP!!🔥🔥🔥
 <table>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Astro-Luminoso&show_icons=true&theme=radical&title_color=000000&text_color=000000&bg_color=ffffff" alt="hby's Github Stat" />
+      <img src="https://github-stats-extended.vercel.app/api?username=Astro-Luminoso&custom_title=Astro-Luminoso's%20GitHub%20Status&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=react" alt="hby's Github Stat" />
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astro-Luminoso&layout=compact&theme=radical&title_color=000000&text_color=000000&bg_color=ffffff" alt="Top Langs" />
+      <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Astro-Luminoso&layout=pie&langs_count=8&theme=react" alt="Top Langs" />
     </td>
       
   </tr>
