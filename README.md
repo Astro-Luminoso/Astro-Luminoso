@@ -7,8 +7,7 @@
 I am a growing developer who is interested in back-end development _**the most**_ but also interested in full-stack.
 
 Right now, I am spending my time on:
-- 🏡 Creating my homepage
-- 🌴 Chilling
+- 📝 Participating BackEnd Dev Project (Java 21, Spring Boot) Link: TBA
 - 🍖💤🍖💤 Eat, Sleep and repeat!
 
 
@@ -21,8 +20,7 @@ I will update this readme ASAP!!🔥🔥🔥
 저는 백엔드 개발에 _**가장 관심이 많은**_ 하지만 풀스택 개발에도 관심이 있는 성장 중인 개발자입니다.
 
 지금 저는 다음과 같은 일들을 하고 있습니다:
-- 🏡 홈페이지 만들기
-- 🌴 쉬는 중
+- 📝 백엔드 프로젝트 참여중 (Java 21, Spring Boot) 링크: TBA
 - 🍖💤🍖💤 먹고, 자고, 반복하기!
 
 <!-- 본 링크는 영어로만 작성되어있습니다. 참고바랍니다. -->
